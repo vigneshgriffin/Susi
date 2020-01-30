@@ -19,6 +19,7 @@ public class xpath {
 	WebElement username = d.findElement(By.xpath("(//input[@class='inputtext login_form_input_box'])[1]"));
 	
 	username.sendKeys("pradhap");
+	System.out.println("sushiratha");
      
 }
 }
