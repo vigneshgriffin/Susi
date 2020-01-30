@@ -17,6 +17,9 @@ public class sam {
 		//findelement
 		WebElement from = d.findElement(By.xpath("//input[@type='text'][1]"));
 		from.sendKeys("chennai");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
 		
 		
 		
